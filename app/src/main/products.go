@@ -1,6 +1,6 @@
 package main
 
-type Foods2 struct {
+type FoodsList struct {
 	Name string
 	KKal int
 	Proteins float32
